@@ -1,7 +1,7 @@
 # Ninefid
 aka den0620
 
-# about
+## about
 I love to take up a lot of projects and forget/ignore 'em
 
 also an ardent follower of the community I am the head of
