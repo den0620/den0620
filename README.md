@@ -13,7 +13,7 @@ Love shiny badges and stars on my repos
 
 i5-11300H + RTX 3050M
 
-Have a look at https://github.com/den0620/dotfiles
+Have a look at [dotfiles](https://github.com/den0620/dotfiles)
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fselfre.cc)](https://selfre.cc)
 
