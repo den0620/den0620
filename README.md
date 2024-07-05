@@ -2,7 +2,7 @@
 
 `I love to take up a lot of projects and forget/ignore 'em`
 
-`Trying to code in Python, C/C++, BASH, GO (and NIX mb)`
+`Trying to code in PY, GO, SH, C/++, JS, (and NIX mb)`
 
 `Native 🇷🇺 [C1] Second 🇺🇸/🇬🇧 [C1] Learning 🇨🇿 [A1]`
 
