@@ -1,7 +1,5 @@
 ## `Ninefid` `(aka den0620)`
 
-`Trying to code in PY, GO, SH, C/++, JS, (and NIX mb)`
-
 `Native 🇷🇺 [C1] Second 🇺🇸/🇬🇧 [C1] Learning 🇨🇿 [A1]`
 
 ## `Works on my machine`
