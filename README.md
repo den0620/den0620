@@ -1,5 +1,7 @@
 ## `Ninefid` `(aka den0620)`
 
+For info you'd better check out my website at https://ninefid.uk.to/
+
 `Native 🇷🇺 [C1] Second 🇺🇸/🇬🇧 [C1] Learning 🇨🇿 [A1]`
 
 ## `Works on my machine`
